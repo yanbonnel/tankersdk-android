@@ -1,0 +1,2 @@
+[registries]
+tanker = { index = "https://gitlab.com/TankerHQ/rust-crate-index/" }
